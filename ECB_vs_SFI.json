@@ -1,0 +1,50 @@
+{
+  "matchid": 23,
+  "team1": {
+    "name": "EC BANGA",
+    "players": {
+      "76561198190258051": "makaroff",
+      "76561198220786844": "labreen",
+      "76561199022747440": "danss",
+      "76561198991249101": "sqreet",
+      "76561198401119175": "blazekinho"
+    }
+  },
+  "team2": {
+    "name": "SemperFI",
+    "players": {
+      "76561198163665188": "SaVage",
+      "76561198024347602": "hazr",
+      "76561198067762481": "ADDICT",
+      "76561198144493390": "shadiy",
+      "76561198014912532": "keen"
+    }
+  },
+  "num_maps": 1,
+  "maplist": [
+    "de_ancient"
+  ],
+  "map_sides": [
+    "knife"
+  ],
+  "spectators": {
+    "players": {
+      "76561198171639490": "[PARTNER] Spec1",
+      "76561198150926776": "[PARTNER] Spec2",
+      "76561198000304967": "[PARTNER] Spec3",
+      "76561197995895918": "[PARTNER] Spec4",
+      "76561199036276883": "[PARTNER] Spec5",
+      "76561198053473455": "[UC] SMM",
+      "76561199188776460": "[OBS] mAa4a",
+      "76561198367886994": "[TournOps] mAa4a",
+      "76561199145161335": "[ADMIN] UrbanSupport"
+    }
+  },
+  "clinch_series": true,
+  "players_per_team": 6,
+  "cvars": {
+    "mp_spec_swapplayersides": "1",
+    "hostname": "Urban Riga Open #2 | 23 | EC BANGA vs SemperFI",
+    "mp_friendlyfire": "1"
+  }
+}

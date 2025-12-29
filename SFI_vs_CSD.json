@@ -1,0 +1,50 @@
+{
+  "matchid": 16,
+  "team1": {
+    "name": "SemperFI",
+    "players": {
+      "76561198163665188": "SaVage",
+      "76561198024347602": "hazr",
+      "76561198067762481": "ADDICT",
+      "76561198144493390": "shadiy",
+      "76561198014912532": "keen"
+    }
+  },
+  "team2": {
+    "name": "CSDIILIT",
+    "players": {
+      "76561198356681838": "Myggis",
+      "76561198191247645": "8juho8",
+      "76561198222656736": "oopee",
+      "76561198026620771": "arvid",
+      "76561198043673609": "puteli"
+    }
+  },
+  "num_maps": 1,
+  "maplist": [
+    "de_ancient"
+  ],
+  "map_sides": [
+    "knife"
+  ],
+  "spectators": {
+    "players": {
+      "76561198171639490": "[PARTNER] Spec1",
+      "76561198150926776": "[PARTNER] Spec2",
+      "76561198000304967": "[PARTNER] Spec3",
+      "76561197995895918": "[PARTNER] Spec4",
+      "76561199036276883": "[PARTNER] Spec5",
+      "76561198053473455": "[UC] SMM",
+      "76561199188776460": "[OBS] mAa4a",
+      "76561198367886994": "[TournOps] mAa4a",
+      "76561199145161335": "[ADMIN] UrbanSupport"
+    }
+  },
+  "clinch_series": true,
+  "players_per_team": 6,
+  "cvars": {
+    "mp_spec_swapplayersides": "1",
+    "hostname": "Urban Riga Open #2 | 16 | SemperFI vs CSDIILIT",
+    "mp_friendlyfire": "1"
+  }
+}
