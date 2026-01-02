@@ -41,10 +41,11 @@
     }
   },
   "clinch_series": true,
-  "players_per_team": 6,
+  "players_per_team": 5,
   "cvars": {
     "mp_spec_swapplayersides": "1",
     "hostname": "Urban Riga Open #2 | 23 | EC BANGA vs SemperFI",
     "mp_friendlyfire": "1"
   }
+
 }
